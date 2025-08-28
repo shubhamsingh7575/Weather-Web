@@ -58,6 +58,7 @@ export default function SearchBox({updateInfo}) {
                   variant="outlined" 
                 required value={city} 
                 onChange={handleChange}
+                InputProps={{ style: { fontWeight: "bold" } }}
                 />
                 <br></br>
                 <br></br>
