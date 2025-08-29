@@ -34,10 +34,3 @@ It allows users to **search any city worldwide** and view **real-time weather de
 5. User can perform **multiple searches**, and the app updates dynamically.  
 
 ---
-
-## ⚡ Installation & Setup
-
-1. Clone this repo:  
-   ```bash
-   git clone https://github.com/yourusername/weather-web.git
-   cd weather-web
